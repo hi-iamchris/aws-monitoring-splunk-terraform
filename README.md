@@ -15,7 +15,7 @@ AWS monitoring services pushe notifications to SNS service and then to SQS queue
 - AWS instance with API credentials 
 
 ## Input variables
-See `variables.tf` in the "test" directory to set input variables. Optionally, have a look at `variables.tf` of every module for details and customisations.
+See `main.tf` to set input variables for every module. Optionally, have a look at `variables.tf` of every module for details and customisations.
   
 
 ## Example of use
